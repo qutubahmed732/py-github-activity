@@ -2,6 +2,10 @@
 
 A simple Python CLI tool that fetches and displays recent public activity for any GitHub user.
 
+## Challenge
+
+This project is the [GitHub User Activity challenge](https://roadmap.sh/projects/github-user-activity) that I accomplished.
+
 ## Requirements
 
 - Python 3.x
